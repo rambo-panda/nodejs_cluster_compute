@@ -1,0 +1,31 @@
+{
+	"unused"       : "vars",
+	"forin"        : true,
+	"globalstrict" : true,
+
+	"node"         : true,
+	"eqeqeq"       : true,
+
+	"undef"        : true,
+	"latedef"      : true,
+	"laxbreak"     : true,
+	"laxcomma"     : true,
+	"expr"         : true,
+	"proto"        : true,
+	"curly"        : true,
+
+	// ecmascript 6
+	"esnext"       : true,
+
+	"globals"      : {
+		"module"    : true,
+		"exports"   : true,
+		"console"   : true,
+		"process"   : true,
+		"Buffer"    : true,
+		"require"   : true,
+		"__dirname" : true,
+		"test"      : true,
+		"suite"     : true
+	}
+}
