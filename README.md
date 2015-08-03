@@ -1,0 +1,2 @@
+# nodejs_cluster_compute
+弥补nodejs在密集型计算上的缺陷
